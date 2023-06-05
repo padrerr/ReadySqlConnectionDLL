@@ -1,0 +1,6 @@
+C:\Users\Cronos\Desktop\code\SqlLibrary\bin\Debug\SqlLibrary.dll
+C:\Users\Cronos\Desktop\code\SqlLibrary\bin\Debug\SqlLibrary.pdb
+C:\Users\Cronos\Desktop\code\SqlLibrary\obj\Debug\SqlLibrary.csproj.AssemblyReference.cache
+C:\Users\Cronos\Desktop\code\SqlLibrary\obj\Debug\SqlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cronos\Desktop\code\SqlLibrary\obj\Debug\SqlLibrary.dll
+C:\Users\Cronos\Desktop\code\SqlLibrary\obj\Debug\SqlLibrary.pdb
